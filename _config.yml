@@ -103,8 +103,8 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    #  - WSU_STATS419_FALL2020
-    # - repo2-to-be-excluded
+      - WSU_STATS419_FALL2020
+      - jsmith0434.github.io.git
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
