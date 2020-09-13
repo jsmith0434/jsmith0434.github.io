@@ -1,0 +1,33 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Git
+  weight: 4
+
+- name: GIS
+  weight: 2
+
+- name: Tableau
+  weight: 4
+
+- name: Excel
+  weight: 4
+
+- name: AutoCad
+  weight: 2
+
+- name: Illustrator
+  weight: 2
+
+- name: Salesforce
+  weight: 3
+
+- name: WordPress
+  weight: 2
+
+- name: Stable
+  weight: 1

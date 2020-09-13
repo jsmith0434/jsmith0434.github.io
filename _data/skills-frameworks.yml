@@ -1,0 +1,29 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: K Nearest Neighbors
+  weight: 3
+
+- name: Neural Networks
+  weight: 3
+
+- name: Decision Trees
+  weight: 4
+
+- name: Graphs
+  weight: 2
+
+- name: Recommender Systems
+  weight: 2
+
+- name: Regression
+  weight: 4
+
+- name: Hypothesis Testing
+  weight: 4
+
+
