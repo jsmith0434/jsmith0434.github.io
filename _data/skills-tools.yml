@@ -30,4 +30,7 @@
   weight: 2
 
 - name: Stable
-  weight: 1
+  weight: 2
+  
+- name: Minitab
+  weight: 2
