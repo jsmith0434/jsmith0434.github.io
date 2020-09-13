@@ -104,7 +104,7 @@ projects:
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
       - WSU_STATS419_FALL2020
-      - jsmith0434.github.io.git
+      - jsmith0434.github.io
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
