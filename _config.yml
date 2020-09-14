@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a Data Scientist and Geologist currently interning at Unify Consulting. My skill set includes technical writing, computer programming, and statistics with a focus on business intelligence. I have previously worked modeling slope stability hazards and writing detailed geotechnical reports. My career goals include gaining technical data science experience while completing a related graduate program. I hope to build a career analyzing and mining data to drive informed business decisions. </a>
+about_me_description: I am a Data Analyst and Geologist currently interning at Unify Consulting. My skill set includes technical writing, computer programming, and statistics with a focus on business intelligence. I have previously worked modeling slope stability hazards and writing detailed geotechnical reports. My career goals include gaining technical data science experience while completing a related graduate program. I hope to build a career analyzing and mining data to drive informed business decisions. </a>
 
 # SKILLS SECTION
 # show_skills_card:
