@@ -14,39 +14,31 @@
 #     - tag: Node
 
 - name: I-405 Value of Time
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+  descr: Senior project for WSU to evaluate patterns in driver behavior on the I-405 freeway. Relationships in speed, time of day, volume of cars on the road, and toll rate were analyzed to uncover insights into how commuter's value their time. Repo available on <a href="https://github.com/jsmith0434/Value_of_Time_Study">git</a>. 
+  demo: final_artifact.html
   tags:
     - tag: R
     - tag: Statistics
 
-
-- name: Wolf Management in Washington State
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Predicting Volcanic Eruptions After an Earthquake
+  descr: A project using SQL to join and query large databases of volcanic eruptions and earthquakes. Weka was used to run a Naive Bayes classifier that predicted eruption following a large earthquake with 73% accuracy. Repo available on <a href="https://github.com/jsmith0434/Predicting_Eruptions">git</a>.
+  demo:
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: MySQL
+    - tag: Naive Bayes
+    - tag: Weka
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
-
-- name: Predicting Volcanic Eruptions after an Earthquake
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Yelp Dataset Challenge
+  descr: Course project using Python to parse JSON data and design a user interface. The output allows users to run SQL based queries on a large Yelp database to search for sucessful and popular businesses by zip code.
+  demo: 
   tags:
+    - tag: PostgreSQL
     - tag: Python
-    - tag: Django
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
-  
-- name: Yelp Data
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Global Life Expectancy Trends
+  descr: This project explored global life expectancy data to define and structure a decision problem. Tableau was used to analyze, summarize, and visualize the data to generate compelling charts and dashboards to identify trends and tell the story.
+  demo: https://public.tableau.com/profile/jessica.smith1016#!/vizhome/GlobalTrendsinLifeExpectancy/Story1 
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Tableau
+   
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
