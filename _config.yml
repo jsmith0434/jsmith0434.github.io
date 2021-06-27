@@ -14,7 +14,7 @@ baseurl: ""
 username: Jessica
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Analyst
+typing_text: Data Scientist
 # email: Your E-Mail address for the email button.
 email: jsmith0434@yahoo.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a Data Analyst and Geologist currently interning at Unify Consulting. My skill set includes technical writing, computer programming, and statistics with a focus on business intelligence. I have previously worked modeling slope stability hazards and writing detailed geotechnical reports. My career goals include gaining technical data science experience while completing a related graduate program. I hope to build a career analyzing and mining data to drive informed business decisions. </a>
+about_me_description: I am an early career Data Scientist and established Geologist currently employed at Amazon. My skill set includes technical writing, computer programming, and statistics with a focus on business intelligence. I have previously worked modeling slope stability hazards and writing detailed geotechnical reports. My career goals include gaining technical data science experience while completing a related graduate program. I hope to build a career analyzing and mining data to drive informed business decisions. </a>
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.dropbox.com/s/3e85jvy1y4qjxe0/Resume.pdf?dl=0
+cv_download_link: https://www.dropbox.com/s/foesond5dbcisge/Resume.pdf?dl=0
 
 # PROJECTS SECTION
 # show_projects_card:

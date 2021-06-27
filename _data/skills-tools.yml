@@ -15,13 +15,13 @@
   weight: 4
 
 - name: Excel
-  weight: 4
+  weight: 3
 
 - name: AutoCad
   weight: 2
 
-- name: Illustrator
-  weight: 2
+- name: AWS
+  weight: 4
 
 - name: Salesforce
   weight: 3

@@ -17,16 +17,26 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Amazon
+  title-url: https://www.aboutamazon.com/
+  date: May 2021 - Present
+  subtitle: Business Intelligence Engineer Intern
+  tags:
+    - tag: AWS
+    - tag: SQL
+    - tag: QuickSight
+  timeline-side: right
+  
 - title: Unify Consulting
   title-url: https://unifyconsulting.com/
-  date: June 2020 - Present
+  date: June 2020 - April 2021
   subtitle: Practices Intern
   tags:
     - tag: R
     - tag: Salesforce
     - tag: Tableau
     - tag: WordPress
-  timeline-side: right
+  timeline-side: left
 
 - title: Envirotech Engineering
   #title-url: https://example.com/
@@ -37,13 +47,6 @@
     - tag: Stable
     - tag: Technical Writing
   timeline-side: right
-
-- title: Oregon State University
-  title-url: https://ecampus.oregonstate.edu/online-degrees/graduate/data-analytics/
-  date: 2021 - 2023
-  subtitle: M.S. Data Analytics
-  timeline-side: left
-
 
 - title: Washington State University
   title-url: https://data-analytics.wsu.edu/
